@@ -29,7 +29,7 @@ def BMI_calc():
 
 # Create a window
 window=tk.Tk()
-window.title("My First GUI")
+window.title("BMI Calculator")
 window.geometry("300x250")
 
 #Add a label
